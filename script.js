@@ -10,6 +10,9 @@ let combs = [
 		[0, 4, 8],
 		[2, 4, 6],
 	] 
+
+
+  
 document.querySelector('.container').onclick = () => {
   let element = event.target
   let char
